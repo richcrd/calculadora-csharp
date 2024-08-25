@@ -12,7 +12,7 @@ Este es un muy sencillo programa de calculadora desarrollado en C# .NET Framewor
 ## Ejemplo de Uso
 
 ### 1. Pantalla de Consola
-![DEMO](demo/demo.PNG)
+![DEMO](/demo/demo.PNG)
 
 ## Contribuciones
 
