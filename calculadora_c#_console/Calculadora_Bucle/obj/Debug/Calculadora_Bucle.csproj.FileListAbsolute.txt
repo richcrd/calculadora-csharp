@@ -1,7 +1,0 @@
-C:\Users\maria magdalena\Desktop\C# Projects\Calculadora\Calculadora_Bucle\bin\Debug\Calculadora_Bucle.exe.config
-C:\Users\maria magdalena\Desktop\C# Projects\Calculadora\Calculadora_Bucle\bin\Debug\Calculadora_Bucle.exe
-C:\Users\maria magdalena\Desktop\C# Projects\Calculadora\Calculadora_Bucle\bin\Debug\Calculadora_Bucle.pdb
-C:\Users\maria magdalena\Desktop\C# Projects\Calculadora\Calculadora_Bucle\obj\Debug\Calculadora_Bucle.csproj.AssemblyReference.cache
-C:\Users\maria magdalena\Desktop\C# Projects\Calculadora\Calculadora_Bucle\obj\Debug\Calculadora_Bucle.csproj.CoreCompileInputs.cache
-C:\Users\maria magdalena\Desktop\C# Projects\Calculadora\Calculadora_Bucle\obj\Debug\Calculadora_Bucle.exe
-C:\Users\maria magdalena\Desktop\C# Projects\Calculadora\Calculadora_Bucle\obj\Debug\Calculadora_Bucle.pdb
